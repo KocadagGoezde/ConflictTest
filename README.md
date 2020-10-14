@@ -1,3 +1,4 @@
 # ConflictTest
 First Line <br>
-Second Line
+Second Line <br>
+Third Line
